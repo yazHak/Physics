@@ -1,2 +1,4 @@
 # Physics
-Physics books and course files
+Physics books and assignments
+
+Book: "Introduction to General Physics"
