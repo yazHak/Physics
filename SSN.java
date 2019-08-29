@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// SSN validation
 public class SSN {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
