@@ -20,7 +20,7 @@ public class Movies {
         Movies movie3 = new Movies(3,1974,"The Godfather II","Francis F Coppola", 9.0);
         Movies movie4 = new Movies(4,2008,"The Dark Knight","Christopher Nolan", 9.0);
         Movies movie5 = new Movies(5,1957,"12 Angry Men","Sidney Lumet", 8.9);
-
+        Movies movie6 = new Movies(6,2023,"Lord of the Osman","Kucuk Murat",10.0);
         map.put(1,movie1);
         map.put(2,movie2);
         map.put(3,movie3);
